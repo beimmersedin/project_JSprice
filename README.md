@@ -25,3 +25,4 @@ ppt 페이지 수 작성
 4. Algorithm / ML , DL
 5. Streamlit
 
+프로젝트 정리해놓은 티스토리 주소 : 
