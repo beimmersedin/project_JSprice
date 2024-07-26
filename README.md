@@ -21,9 +21,9 @@
 정보 제공: 전세 가격 및 전세가율에 대한 정확한 정보를 제공하여, 세입자와 임대인이 보다 합리적인 의사결정을 할 수 있도록 지원함으로써 시장의 효율성을 높일 것이다.<br>
 
 <br>
-프로젝트 수행
-1. Preprocessing
-2. EDA , Visualization
-3. Statistics
-4. Algorithm / ML , DL
+프로젝트 수행<br>
+1. Preprocessing<br>
+2. EDA , Visualization<br>
+3. Statistics<br>
+4. Algorithm / ML , DL<br>
 5. Streamlit
